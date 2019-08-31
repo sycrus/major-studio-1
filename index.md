@@ -1,1 +1,1 @@
-[Part 1.5: Design Methods](https://sycrus.github.io/major-studio-1/0831.md)
+[Part 1.5: Design Methods](https://sycrus.github.io/major-studio-1/0831.html)
