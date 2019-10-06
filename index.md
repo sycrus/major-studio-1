@@ -6,5 +6,5 @@ Instruction Sets for Strangers <br>
 09/16: [Part 3: Final Prototype](https://sycrus.github.io/major-studio-1/0916.html) <br>
 <br>
 
-10/01: [Observations](https://sycrus.github.io/major-studio-1/1001.html)
+10/01: [Observations](https://sycrus.github.io/major-studio-1/1001.html) <br>
 10/05: [Me, My Data](https://sycrus.github.io/major-studio-1/1005.html)
