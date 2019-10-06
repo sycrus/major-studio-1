@@ -7,3 +7,4 @@ Instruction Sets for Strangers <br>
 <br>
 
 10/01: [Observations](https://sycrus.github.io/major-studio-1/1001.html)
+10/05: [Me, My Data](https://sycrus.github.io/major-studio-1/1005.html)
