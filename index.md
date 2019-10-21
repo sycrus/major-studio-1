@@ -8,3 +8,4 @@ Instruction Sets for Strangers <br>
 
 10/01: [Observations](https://sycrus.github.io/major-studio-1/1001.html) <br>
 10/05: [Me, My Data](https://sycrus.github.io/major-studio-1/1005.html)
+10/21: [Midterm Presentation Reflections](https://sycrus.github.io/major-studio-1/1021.html)
