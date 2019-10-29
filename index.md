@@ -11,10 +11,10 @@ Instruction Sets for Strangers <br>
 10/21: [Midterm Presentation Reflections](https://sycrus.github.io/major-studio-1/1021.html) <br>
 10/21: [Consolidated List of Questions](https://sycrus.github.io/major-studio-1/questions.html)<br>
 
-10/22: [7-in-7: Day 1 - Number Flow](https://sycrus.github.io/major-studio-1/1022.html) <br>
-10/23: [7-in-7: Day 2 - Projective Geometry](https://sycrus.github.io/major-studio-1/1023.html)<br>
-10/24: [7-in-7: Day 3 - Accessible Puzzles](https://sycrus.github.io/major-studio-1/1024.html)<br>
-10/25: [7-in-7: Day 4 - Harmonics](https://sycrus.github.io/major-studio-1/1025.html)<br>
-10/26: [7-in-7: Day 5 - Notes and Patterns](https://sycrus.github.io/major-studio-1/1026.html)<br>
-10/27: [7-in-7: Day 6 - Beat Patterns](https://sycrus.github.io/major-studio-1/1027.html)<br>
+10/22: [7-in-7: Day 1 - Number Flow](https://sycrus.github.io/major-studio-1/1022/1022.html) <br>
+10/23: [7-in-7: Day 2 - Projective Geometry](https://sycrus.github.io/major-studio-1/1023/1023.html)<br>
+10/24: [7-in-7: Day 3 - Accessible Puzzles](https://sycrus.github.io/major-studio-1/1024/1024.html)<br>
+10/25: [7-in-7: Day 4 - Harmonics](https://sycrus.github.io/major-studio-1/1025/1025.html)<br>
+10/26: [7-in-7: Day 5 - Notes and Patterns](https://sycrus.github.io/major-studio-1/1026/1026.html)<br>
+10/27: [7-in-7: Day 6 - Beat Patterns](https://sycrus.github.io/major-studio-1/1027/1027.html)<br>
 10/28: [7-in-7: Day 7 - ]()<br>
