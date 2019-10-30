@@ -17,4 +17,4 @@ Instruction Sets for Strangers <br>
 10/25: [7-in-7: Day 4 - Harmonics](https://sycrus.github.io/major-studio-1/1025/1025.html)<br>
 10/26: [7-in-7: Day 5 - Notes and Patterns](https://sycrus.github.io/major-studio-1/1026/1026.html)<br>
 10/27: [7-in-7: Day 6 - Beat Patterns](https://sycrus.github.io/major-studio-1/1027/1027.html)<br>
-10/28: [7-in-7: Day 7 - ]()<br>
+10/28: [7-in-7: Day 7 - Tactile Musical Space](https://sycrus.github.io/major-studio-1/1028/1028.html)<br>
