@@ -8,7 +8,7 @@ Instruction Sets for Strangers <br>
 
 10/01: [Observations](https://sycrus.github.io/major-studio-1/1001.html) <br>
 10/05: [Me, My Data](https://sycrus.github.io/major-studio-1/1005.html) <br>
-10/21: [Midterm Presentation Reflections](https://sycrus.github.io/major-studio-1/1021.html) <br>
+10/21: [Midterm Presentation Reflections](https://sycrus.github.io/major-studio-1/1021/1021.html) <br>
 10/21: [Consolidated List of Questions](https://sycrus.github.io/major-studio-1/questions.html)<br>
 
 10/22: [7-in-7: Day 1 - Number Flow](https://sycrus.github.io/major-studio-1/1022/1022.html) <br>
