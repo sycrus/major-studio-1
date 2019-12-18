@@ -18,3 +18,9 @@ Instruction Sets for Strangers <br>
 10/26: [7-in-7: Day 5 - Notes and Patterns](https://sycrus.github.io/major-studio-1/1026/1026.html)<br>
 10/27: [7-in-7: Day 6 - Beat Patterns](https://sycrus.github.io/major-studio-1/1027/1027.html)<br>
 10/28: [7-in-7: Day 7 - Tactile Musical Space](https://sycrus.github.io/major-studio-1/1028/1028.html)<br>
+
+11/13: [Functional Prototype](https://sycrus.github.io/major-studio-1/1113/1113.html)<br>
+11/18: [Aesthetic Prototype](https://sycrus.github.io/major-studio-1/1118/1118.html)<br>
+
+12/16: [Final Project](https://sycrus.github.io/major-studio-1/1216/1216.html)<br>
+12/17: [Final Project Reflections](https://sycrus.github.io/major-studio-1/1217/1217.html)<br>
